@@ -2,7 +2,7 @@ name: Build and Publish
 
 env:
   REGISTRY: ghcr.io
-  GITHUB_REPOSITORY_OWNER: Chaoskjell44
+  GITHUB_REPOSITORY_OWNER: chaoskjell44
 
 on:
   workflow_call:
